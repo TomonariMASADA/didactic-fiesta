@@ -36,10 +36,10 @@ Therefore, what is settled by a particular A to a particular B is also an interp
 具体例を挙げて説明する。
 Let me explain with an example.
 
-ある角度から眺めているグラスを、さらに別の角度から眺めることは、特定のAによって特定のBへと規定されることである。
+ある角度から眺めているグラスを、別の角度から眺めることは、特定のAによって特定のBへと規定されることである。
 Looking at the glass I am looking at from one angle from another angle is being settled by a particular A to a particular B.
 
-このときの特定のAは、そのグラスをさらに別の角度から眺めるに至ったそれまでの履歴の全てである。
+このときの特定のAは、そのグラスを別の角度から眺めるに至ったそれまでの履歴の全てである。
 A particular A in this case is all history before I come to look at the glass from another angle.
 
 この例において、特定のAによって特定のBへと規定されるものは、グラスを眺めているものである。
@@ -59,34 +59,45 @@ However, the interpretant in this case is settled to C not by A->B but by (A->B)
 (A->B) is called retention of A->B.
 
 
-グラスをさらに別の角度から眺めることにおいて、解釈項は現実にA→Bである。
+グラスを別の角度から眺めることにおいて、解釈項は現実にA→Bである。
+In looking at the glass from another angle, the interpretant actually is A->B.
 
 retentionは、解釈項が現実にそれであるところのA→Bを、解釈項の現実のひとつとしての（A→B）へと、変様 (modify) する。
-Retention modifies A->B the interpretant actually is into (A->B) that is an actuality of the interpretant.
+Retention modifies A->B the interpretant actually is into (A->B), which is an actuality of the interpretant.
 
-言い換えれば、retentionは、現実にこれこれである解釈項を、解釈項のこれこれである現実へと、変様する。
+つまり、retentionは、現実にこれこれである解釈項を、解釈項のこれこれである現実へと、変様する。
 In other words, retention modifies the interpretant actually being such and such into such and such an actuality of the interpretant.
+
 
 現実にA→Bである解釈項は、他でもあり得る解釈項ではない。
 The interpretant actually being A->B could not be otherwise.
 
 特定のAによって特定のBへと規定されることにおいて、解釈項はそれ以外の何ものでもない。
+In being settled by a particular A to a particular B, the interpretant is nothing but being settled by a particular A to a particular B.
 
-つまり、特定のAによって特定のBへと規定されるものと、特定のAによって特定のBへと規定されることは、いずれも解釈項である。
+特定のAによって特定のBへと規定されるものと、特定のAによって特定のBへと規定されることは、いずれも解釈項である。
+Both what is settled by a particular A to a particular B and being settled by a particular A to a particular B are the interpretant.
 
-言い換えれば、解釈項は、現実にこれこれであることにおいて、出来事でもある。
+解釈項は、現実にこれこれであることにおいて、出来事でもある。
+In actually being such and such, the interpretant is an event.
 
 
-A→Bにおける→は、現実性である。
+A→Bにおける→は、現実化である。
+-> in A->B is actualization.
 
 
 retentionは、問うことである。
+Retention is questioning.
 
 現実にA→Bである解釈項が、A→Bについて問うことをしないならば、A→B→C→・・・という連鎖が構成されるだけである。
+If the interpretant actually being A->B does not question A->B, only a flat chain A->B->C->... continues.
 
-A→B→C→・・・は、A→BとB→Cを含む。しかし、（（A→B）→C）は、A→Bを含むが、B→Cは含まない。
+A→B→C→・・・は、A→BとB→Cを含む。しかし、（A→B）→Cは、A→Bだけを含む。
+A->B->C... contains A->B and B->C. However, (A->B)->C only contains A->B.
 
 
 解釈項を規定するものはシニフィエである。
+What settles interpretant is signified.
 
 解釈項がそれへと規定されるものはシニフィアンである。
+That to which interpretant is settled is signifier.
