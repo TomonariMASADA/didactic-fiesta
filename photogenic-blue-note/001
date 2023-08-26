@@ -1,9 +1,6 @@
 特定のAによって特定のBへと規定されることを、A→Bと書くことにする。
 Being settled by a particular A to a particular B is written as A -> B.
 
-特定のAによって特定のBへと規定されることは、AやBが特定のものであるかぎり、それ自身も特定のものである。
-Being settled by A to B is particular when both A and B are particular.
-
 
 特定のA→Bによって特定のCへと規定されるものを、解釈項 (interpretant) と呼ぶことにする。
 What is settled by a particular A->B to a particular C is called interpretant.
@@ -29,24 +26,27 @@ A in (A->B) and (A->B) in (A->B)->C have the same form.
 特定のAによって特定のBへと規定されること。これを、A→Bと書くことにしたのだった。
 We have decided to write being settled by a particular A to a particular B as A -> B.
 
-ところで、このAはすでに(A'->B')である。
-Now this A is already (A'->B').
+ところで、このAは、特定のA'と特定のB'に関して、すでに(A'->B')である。
+Now this A is already (A'->B') with respect to a particular A' and a particular B'.
 
-よって、特定Aによって特定のBへと規定されるものも、解釈項である。
+よって、特定のAによって特定のBへと規定されるものも、解釈項である。
 Therefore, what is settled by a particular A to a particular B is also an interpretant.
 
 
 具体例を挙げて説明する。
+Let me explain with an example.
 
-手に取ったグラスをさらに別の角度から眺めることは、特定のAによって特定のBへと規定されることである。
+ある角度から眺めているグラスを、さらに別の角度から眺めることは、特定のAによって特定のBへと規定されることである。
+Looking at the glass I am looking at from one angle from another angle is being settled by a particular A to a particular B.
 
-別の角度から眺めることで、グラスは別の見え方をする。この、別の見え方をすることが、Bに当たる。
-
-このときのAは、そのグラスをさらに別の角度から眺めるに至ったそれまでの履歴の全てである。
+このときの特定のAは、そのグラスをさらに別の角度から眺めるに至ったそれまでの履歴の全てである。
+A partiular A in this case is all history before I come to look at the glass from another angle.
 
 特定のAによって特定のBへと規定されるものは、この場合、グラスを眺めているものである。
+What is settled by a particular A to a particular B is what is looking at the glass.
 
 つまり、この例においては、グラスを眺めているものが、解釈項である。
+In other words, what is looking at the glass is the interpretant in this example.
 
 
 特定のAによって特定のBへと規定される解釈項は、さらに、特定のCへと規定されることができる。
@@ -62,7 +62,7 @@ However, the interpretant is settled not by A->B but by (A->B).
 グラスをさらに別の角度から眺めることにおいて、解釈項は現実にA→Bである。
 
 retentionは、解釈項が現実にそれであるところのA→Bを、解釈項の現実のひとつとしての（A→B）へと、変様 (modify) する。
-Retention modifies A->B, which the interpretant actually is, into (A->B), which is an actuality of the interpretant.
+Retention modifies A->B the interpretant actually is into (A->B) that is an actuality of the interpretant.
 
 言い換えれば、retentionは、現実にこれこれである解釈項を、解釈項のこれこれである現実へと、変様する。
 In other words, retention modifies the interpretant actually being such and such into such and such an actuality of the interpretant.
