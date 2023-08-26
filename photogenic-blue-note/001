@@ -1,29 +1,39 @@
 特定のAによって特定のBへと規定されることを、A→Bと書くことにする。
+Being settled by a particular A to a particular B is written as A -> B.
 
 特定のAによって特定のBへと規定されることは、AやBが特定のものであるかぎり、それ自身も特定のものである。
+Being settled by A to B is particular when both A and B are particular.
 
 
-A→Bによって特定のCへと規定されるものを、解釈項 (interpretant) と呼ぶことにする。
+特定のA→Bによって特定のCへと規定されるものを、解釈項 (interpretant) と呼ぶことにする。
+What is settled by a particular A->B to a particular C is called interpretant.
 
-
-A→Bによって特定のCへと規定されることを、（A→B）→Cと書くことにする。
+特定のA→Bによって特定のCへと規定されることを、（A→B）→Cと書くことにする。
+Being settled by a particular A->B to a particular C is written as (A->B)->C.
 
 なぜA→B→Cと書かないのか、その理由は後で示される。
+The reason why it is not written as A->B->C will be given later.
 
 
 （A→B）→Cにおける（A→B）を、シニフィエ (signified) と呼ぶことにする。
+(A->B) in (A->B)->C is called signified.
 
 （A→B）→CにおけるCを、シニフィアン (signifier) と呼ぶことにする。
+C in (A->B)->C is called sgnifier.
 
 
 A→BにおけるAと、（A→B）→Cにおける（A→B）とは、同じ形式 (form) を持っている。
+A in (A->B) and (A->B) in (A->B)->C have the same form.
 
 
 特定のAによって特定のBへと規定されること。これを、A→Bと書くことにしたのだった。
+We have decided to write being settled by a particular A to a particular B as A -> B.
 
-ところで、このAがすでに、特定の何かによって特定の何かへと規定されることである。
+ところで、このAはすでに(A'->B')である。
+Now this A is already (A'->B').
 
 よって、特定Aによって特定のBへと規定されるものも、解釈項である。
+Therefore, what is settled by a particular A to a particular B is also an interpretant.
 
 
 具体例を挙げて説明する。
@@ -40,20 +50,25 @@ A→BにおけるAと、（A→B）→Cにおける（A→B）とは、同じ形
 
 
 特定のAによって特定のBへと規定される解釈項は、さらに、特定のCへと規定されることができる。
+An interpretant settled by a particular A to a particular B can further be settled to a particular C.
 
 しかし、このとき、その解釈項はA→Bによって規定されるのではなく、（A→B）によって規定される。
+However, the interpretant is settled not by A->B but by (A->B).
 
 （A→B）をA→Bのretentionと呼ぶことにする。
+(A->B) is called retention of A->B.
 
 
 グラスをさらに別の角度から眺めることにおいて、解釈項は現実にA→Bである。
 
 retentionは、解釈項が現実にそれであるところのA→Bを、解釈項の現実のひとつとしての（A→B）へと、変様 (modify) する。
+Retention modifies A->B, which the interpretant actually is, into (A->B), which is an actuality of the interpretant.
 
 言い換えれば、retentionは、現実にこれこれである解釈項を、解釈項のこれこれである現実へと、変様する。
-
+In other words, retention modifies the interpretant actually being such and such into such and such an actuality of the interpretant.
 
 現実にA→Bである解釈項は、他でもあり得る解釈項ではない。
+The interpretant actually being A->B could not be otherwise.
 
 特定のAによって特定のBへと規定されることにおいて、解釈項はそれ以外の何ものでもない。
 
