@@ -2,10 +2,10 @@ Grenzeの経験を、意味空間に新たな軸（＝新たな次元）が明�
 The experience of boundedness can be modeled as a decomposition of a semantic space, where the decomposition is along an axis that is additionaly made explicit in the semantic space.
 
 例えば、意味空間の軸を実数の集合でモデル化し、各軸に沿って意味空間をdecomposeするindifferenceを、非負の値を互いに同じとし、負の値を互いに同じとするindifferenceとしてモデル化するならば、個物(particula)は2進法で表記された数として同定できる。
-Here is an example of the formal modeling of semantic space. Each axis of the semantic space is modeled as a set of real number. Each experience of boundedness decompose the corresponding axis at zero based on an indifference, which make nonnegative numbers are equivant to each other and also make negative numbers equivalent to each other. Then particulars in the semantic space is identified as a binary number.
+Here is an example of the formal modeling of semantic space. Each axis of the semantic space is modeled as a set of real number. Each experience of boundedness decomposes the corresponding axis at zero based on an indifference, which make nonnegative numbers are equivant to each other and also make negative numbers equivalent to each other. Then particulars in the semantic space is identified as a binary number.
 
 個物はこちら側であり、普遍は公共的である。
-Particulars are on this side. Universals are public.
+Particulars are on this side (citra). Universals are public.
 
 こちら側の対義語はあちら側である。公共的の対義語は私的である。
-The antonym of this side is that side. The antonym of public is private.
+The antonym of this side is that side (ultra). The antonym of public is private.
