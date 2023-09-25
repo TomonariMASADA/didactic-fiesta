@@ -4,19 +4,21 @@ Being settled by a particular A->B to a particular C is written as (A->B)->C.
 
 What is settled by a particular A->B to a particular C is called interpretant.
 
+
 The reason why being settled by a particular A->B to a particular C is not written as A->B->C will be given later.
+
 
 (A->B) in (A->B)->C is called signified.
 
 C in (A->B)->C is called signifier.
 
-A in (A->B) and (A->B) in (A->B)->C have the same form.
 
-Recall that being settled by a particular A to a particular B is written as A -> B.
+A in (A->B) and (A->B) in (A->B)->C have the same form.
 
 A in A->B is in its turn (A'->B') with respect to a particular A' and a particular B'.
 
 Therefore, what is settled by a particular A to a particular B is also an interpretant.
+
 
 Let me explain with an example.
 
@@ -37,37 +39,23 @@ Retention modifies A->B an interpretant actually is into (A->B), which is an act
 In other words, retention modifies an interpretant actually being such and such into a such and such actuality of the interpretant.
 
 
-現実にA→Bである解釈項は、他でもあり得る解釈項ではない。
-The interpretant actually being A->B could not be otherwise.
+An interpretant actually being A->B could not be otherwise. In being settled by a particular A to a particular B, an interpretant is nothing but being settled by a particular A to a particular B. Both what is settled by a particular A to a particular B and being settled by a particular A to a particular B are an interpretant.
 
-特定のAによって特定のBへと規定されることにおいて、解釈項はそれ以外の何ものでもない。
-In being settled by a particular A to a particular B, the interpretant is nothing but being settled by a particular A to a particular B.
-
-特定のAによって特定のBへと規定されるものと、特定のAによって特定のBへと規定されることは、いずれも解釈項である。
-Both what is settled by a particular A to a particular B and being settled by a particular A to a particular B are the interpretant.
-
-解釈項は、現実にこれこれであることにおいて、出来事でもある。
-In actually being such and such, the interpretant is an event.
+In actually being such and such, an interpretant is an event.
 
 
-A→Bにおける→は、現実化である。
 -> in A->B is actualization.
 
 
-retentionは、問うことである。
 Retention is questioning.
 
-現実にA→Bである解釈項が、A→Bについて問うことをしないならば、A→B→C→・・・という連鎖が構成されるだけである。
 If the interpretant actually being A->B does not question A->B, only a flat chain A->B->C->... continues.
 
-A→B→C→・・・は、A→BとB→Cを含む。しかし、（A→B）→Cは、A→Bだけを含む。
-A->B->C... contains A->B and B->C. However, (A->B)->C only contains A->B.
+A->B->C... contains A->B and B->C. However, (A->B)->C contains A->B but not B->C.
 
 
-解釈項を規定するものはシニフィエである。
 What settles interpretant is signified.
 
-解釈項がそれへと規定されるものはシニフィアンである。
 That to which interpretant is settled is signifier.
 
 
