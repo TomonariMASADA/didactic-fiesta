@@ -1,0 +1,32 @@
+ここで議論してきているindifferenceという概念を、下の箇所の「すべてのA」という表現と関係づけて説明できるかもしれない。
+
+Zunächst die Form „alle A“. Sie ist nah verwandt mit der KlassenvorsteIlung, hat aber eine distributive und nicht wie diese eine kollektive Funktion.
+（富山豊『フッサール 志向性の哲学』118頁にあるフッサールからの引用の冒頭部分の原文）
+
+上の引用箇所にあるdistributive functionとcollective functionの違いについては、上の引用の直後から上掲書で分かりやすく説明されている。
+
+その一方、Philipp Koralus, Reason & Inquiry, p.45には、同じ"all A"という表現についてのKit Fineの議論が、以下のように紹介されている。
+
+Arbitrary objects are non-individual entities, each associated with a range of application, and having only “those properties common to the individual objects in its range” (Fine, 1985b). Fine (1985a) showed that a theory of arbitrary objects is coherent and can provide a semantics for classical logic. Adapting this framework for our purposes, when we think a thought that corresponds to a general statement like “all dogs bark,” we are thinking about an arbitrary dog that barks. In other words, the representational content of the cognitive state corresponding to the thought expressed by “all dogs bark” includes an arbitrary dog as a constituent (as well as a property and a relation) just as the thought expressed by “Fido barks” includes a particular dog as a constituent. Neither case includes a potentially infinite set of particular dogs.
+
+このarbitrary objectは、おそらく、"all A"のdistributiveな機能によっても、また、collectiveな機能によっても、いずれによっても説明できない仕方で、"all A"という表現に関係していると思われる。
+
+しかし、この不足は、『フッサール 志向性の哲学』の範囲内であれば、224頁から始まる「最大の双子素数」に関する議論で補われていると考えることもできる。つまり、表現の意味が分かるとは、対象をどう探索すればよいかというその手続きが分かることではなく、何がそのような手続きとしてカウントできるかという仕様が分かることだ、という議論によって補われていると考えることもできる。
+
+しかし、探索であろうと、探索の仕様であろうと、探索するためには、次から次へと、何かから何かへ、移っていかなければならない。次のステップではさっきとは違う何かに出会っていることが、探索の可能性の制約(Bedingung der Möglichkeit)である。
+
+整数のような数学的対象であれば、探索するなかで何から何へ移っていっているのかは、自明だろう。（この意味で、数学的対象を例にとることは、説明をとっつきやすくしはするが、本当なら議論しても良さそうな問題を遠ざけてしまうこともあるのではないか。）
+
+では、「すべての犬」という表現の意味について同様に議論するとき、犬から犬へ移っていく探索を考えるのであろうが、この探索に含まれる、さっきとは違う別の犬に移るという手続きを、自明な手続きだと考えてもいいのだろうか。
+
+そうではなく、ここではむしろ、一匹の犬を一匹として数えるという手続きの自明さを、問題にしなければいけないのではないか。なぜFineは、arbitrary objectのような概念を導入しようと考えたのか。
+
+「すべての犬」という表現の意味について議論するとき、同じ犬に何度も出会う可能性（向かい合って吠え合っている2匹の犬に同じ犬として出会うことはさすがにあり得ないとしても。）、犬とカウントすべきものを犬とカウントしない可能性、これらの可能性を真面目に考えなくてもいいのだろうか。
+
+indifferenceという概念は、arbitrary objectという概念を通して、個体ないし個物が無限にあるという状況のその無限性に目を向けさせるのではなく、むしろ、無限にあるとされる個体ないし個物の個体性ないし個物性に目を向けさせる概念として、導入されている。・・・と、こう言ってもいいかもしれない。
+
+その最初の一歩として、ここでの議論においては、個物particularと個体individualを、別々の概念として扱うことにした。
+
+「すべての犬」の例で言えば、犬好きの人と、そうでない人では、犬の個々の個物を構成するindifferenceが異なる。犬好きの人であれば、いま目の前にいるわんこと、昨日散歩中に出会ったわんこが、同じわんこだと、すぐ分かるかもしれない。しかし、犬好きでなければ、2匹のわんこと数えるかもしれない。また、犬好きであれば、目の前のケージの中にいる動物がわんこだとすぐ分かるかもしれないが、犬好きでなければ、何の動物か知らないけれど少なくとも絶対に犬ではないと思うかもしれない。つまり、0匹と数えるかもしれない。indifferenceは、このような違いを成り立たせる概念として導入されている。このような数え方の違い（探索の仕方の違い）について考えずに、「すべての犬」という表現の意味を考えることはできるのだろうか。
+
+この例について、外延が人によって違うだけだ、と解決することは、言語について考えるのを辞めることである。このような例について、外延が違う、で済ませられるのだろうか。例えば、どれを人間と数えるかが人によって違うことを、人間という概念の外延は人によって違うと説明して済ませられるのだろうか。
