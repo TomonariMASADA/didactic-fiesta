@@ -11,4 +11,3 @@
 numerical identityに対立する概念は、qualitative identityである。なお、numerical identityとqualitative identityとを区別できることは、おそらく人間に特殊な能力(faculty)である。例えば、stable diffusion modelsが生成する画像においては、numerical identityとqualitative identityが区別されない状態で、様々な対象物が描画されている。つまり、仮にstable diffusion modelsを擬似的にエージェントとして扱うにしても、このエージェントはnumerical identityとqualitative identityとを区別するfacultyを欠いている。
 
 alignmentという概念は、ここでの議論では、sublation、つまり、Aufhebenを置き換える概念として提示されている。このalignmentという概念についての考察は、まだ到底十分ではない。
-
