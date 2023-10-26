@@ -1,1 +1,1 @@
-This directory "random-notes" contains my random thoughts contributing to writing _didactic fiesta_.
+This directory contains my random thoughts contributing to writing _didactic fiesta_.
