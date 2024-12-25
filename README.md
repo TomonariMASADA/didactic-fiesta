@@ -6,4 +6,7 @@
 
 * 2024年7月13日（土）0:35、ココログからの全記事の移転を終了できた。
 
-* https://linktr.ee/tmasada
+
+
+* 筆者のプロフィール
+  * https://linktr.ee/tmasada
